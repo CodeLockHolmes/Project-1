@@ -1,0 +1,66 @@
+I think this is what the project is asking for
+Project Outline: Requirements Report
+1. Categorize A List
+   - As a user, I want to categorize my list so that I can organize items based on my needs.
+
+2. Create Multiple Lists
+   - As a user, I want to create multiple list groups to keep different types of lists organized.
+
+3. Organize Multiple Lists
+   - As a user, I want to organize my multiple lists into groups for better management.
+
+4. Keep Everyone on the Same Page
+   - As a user, I want to ensure all group members receive instant updates when changes are made to lists, so that everyone is informed in real time.
+
+5. Schedule Group Activity
+   - As a user, I want to add activities to a shared calendar, so that group members can see them on their own calendars.
+
+6. Edit a List
+   - As a user, I want to edit both my personal lists and group lists as needed.
+
+7. Search Store
+   - As a user, I want to search for a particular store from a list of available stores.
+
+8. Form a Group
+   - As a user, I want to create a group with family, friends, or colleagues to collaborate on lists.
+
+9. Cross Item off List
+   - As a user, I want to cross items off my list to mark them as completed.
+
+10. Pin an Item
+    - As a user, I want to pin an item to the top of the list so that it's easy to find.
+
+11. Organize a Daily Task
+    - As a user, I want to organize my daily tasks by priority or by store for efficient task management.
+
+12. View Stored List
+    - As a user, I want to view lists in real time to stay updated on their current status.
+
+13. Favorite an Item
+    - As a user, I want to favorite an item so that it can be added easily to all my lists.
+
+14. Create Grocery List
+    - As a busy user, I want to create a grocery list to efficiently organize my weekly shopping needs.
+
+15. Add Item to List
+    - As a user, I want to add items to one of my lists for easy organization.
+
+16. Set a Reminder
+    - As a user, I want to set reminders for specific dates, like grocery shopping, so I don’t miss a planned trip.
+
+17. Share a List
+    - As a user, I want to share my list in the form of a link so that others can access it easily.
+
+18. Edit Group Lists
+    - As a user, I want to be able to edit group lists to keep them up to date.
+
+19. Collaborate on Lists
+    - As a user, I want to collaborate with other users on shared lists to make joint planning more efficient.
+
+20. Organize Lists by Store
+    - As a user, I want to organize lists based on store locations to streamline shopping.
+
+General Process
+  - We used the planning poker technique to estimate user stories as a team. These estimates will help prioritize our development timeline.
+Background Data
+  - The team initially struggled with defining the scope of certain user stories. For instance, "Create Grocery List" was too broad, so we decided to break it down into smaller tasks such as "Add item to list" and "Set a reminder." 
